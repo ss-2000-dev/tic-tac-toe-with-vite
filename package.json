@@ -1,6 +1,7 @@
 {
   "name": "tic-tac-toe-vite",
   "version": "1.0.0",
+  "type": "module",
   "description": "作成日: 2024-09-27\r React チュートリアル tic-tac-toe\r Vite",
   "main": "index.js",
   "scripts": {
